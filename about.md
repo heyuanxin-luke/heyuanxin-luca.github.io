@@ -74,9 +74,9 @@ Patents(based on filing date)
 
 Journal Articales
 
-1.Preparation and properties of blocked solvent-free polyurethanes, Fine Chemicals 2019, 36(6): 1191-1197. 
+1. Preparation and properties of blocked solvent-free polyurethanes, Fine Chemicals 2019, 36(6): 1191-1197. 
 
-2.Preparation and properties of blocked solvent-free polyurethane ultrafine synthetic leather base cloth, Acta Materiae Compositae Sinica(accepted).
+2. Preparation and properties of blocked solvent-free polyurethane ultrafine synthetic leather base cloth, Acta Materiae Compositae Sinica(accepted).
 
 ### Contact me
 
