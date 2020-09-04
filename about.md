@@ -30,15 +30,15 @@ July 2015- August 2015: Trainee, Fujian Topsun Microfiber Ltd, Zhangzhou, FJ, Ch
 
 September 2018 - present: Professor Xingyuan Ma's Group
 
-1. Fabric coating technology for automotive materials: cooperate with CromogeniaUnits to achieve high-solid polyurethane’s industrialization in Suzhou Beston Decoration Ltd and apply to the automotive leather of Nissan, Mazda and Renault. Achieved industrialization of leather finishing agent in Xi’an Leiming Chemical Technology Ltd and the sales volume exceeds 5,000 tons per year (occupying 50% of the domestic market in 2019).
+1. Fabric coating technology for automotive materials.
 
-2. Polyurethane/ ultrafine fiber nonwoven composite: upgraded the production of ultrafine synthetic leather base and the factory has been built for preliminary production in Luoyang.
+2. Polyurethane/ ultrafine fiber nonwoven composite.
 
-3. Preparation of superhydrophobic ultrafine fiber nonwovens: chemical grafting of octadecylamine on the surface of micro-structured superfine fibers.
+3. Preparation of superhydrophobic ultrafine fiber nonwovens.
 
 July 2015 - July 2016: Associate Professor Na Xu's Group
 
-1. Improving moisture permeability of nylon fabric: grafting collagen on the surface of nylon fiber by "Thiol-Ene" click chemistry.
+1. Improving moisture permeability of nylon fabric.
 
 ### Publications
 
