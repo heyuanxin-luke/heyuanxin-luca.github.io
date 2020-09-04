@@ -4,10 +4,6 @@ title: About me
 permalink: /about me/
 ---
 
-Hello Everyone!
-
-I am Luca, this is my personal website. I am glad you are here. You can see my profile on this page.
-
 ### Academic Qualifications
 
 Candidate for M.Eng. (Light Ind. Technol. & Eng.), Shaanxi University of Science & Technology, China, expected June 2021.
