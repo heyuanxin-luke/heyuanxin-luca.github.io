@@ -4,7 +4,9 @@ title: About me
 permalink: /about me/
 ---
 
-Hello Everyone! I'm Luca, this is my personal website. I'm glad you are here. You can see my profile on this page.
+Hello Everyone!
+
+I am Luca, this is my personal website. I am glad you are here. You can see my profile on this page.
 
 ### Academic Qualifications
 
@@ -28,14 +30,15 @@ July 2015- August 2015: Trainee, Fujian Topsun Microfiber Ltd, Zhangzhou, FJ, Ch
 
 September 2018 - present: Professor Xingyuan Ma's Group
 
+1. Fabric coating technology for automotive materials: cooperate with CromogeniaUnits to achieve high-solid polyurethane’s industrialization in Suzhou Beston Decoration Ltd and apply to the automotive leather of Nissan, Mazda and Renault. Achieved industrialization of leather finishing agent in Xi’an Leiming Chemical Technology Ltd and the sales volume exceeds 5,000 tons per year (occupying 50% of the domestic market in 2019).
+
+2. Polyurethane/ ultrafine fiber nonwoven composite: upgraded the production of ultrafine synthetic leather base and the factory has been built for preliminary production in Luoyang.
+
+3. Preparation of superhydrophobic ultrafine fiber nonwovens: chemical grafting of octadecylamine on the surface of micro-structured superfine fibers.
+
 July 2015 - July 2016: Associate Professor Na Xu's Group
 
-
-
-
-
-### Academic Qualifications### Academic Qualifications### Academic Qualifications
-
+1. Improving moisture permeability of nylon fabric: grafting collagen on the surface of nylon fiber by "Thiol-Ene" click chemistry.
 
 ### Publications
 
@@ -68,6 +71,12 @@ Patents(based on filing date)
 13. China Patent 206873177U (filed on 26 May 2017; granted on 12 January 2018), “一种高韧性双面合成革”
 
 14. China Patent 106049055A (filed on 26 October 2016; granted on 09 April 2019), “一种高吸湿性海岛型超细纤维合成革基布的制备方法”
+
+Journal Articales
+
+1.Preparation and properties of blocked solvent-free polyurethanes, Fine Chemicals 2019, 36(6): 1191-1197. 
+
+2.Preparation and properties of blocked solvent-free polyurethane ultrafine synthetic leather base cloth, Acta Materiae Compositae Sinica(accepted).
 
 ### Contact me
 
