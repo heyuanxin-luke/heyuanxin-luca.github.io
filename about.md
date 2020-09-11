@@ -3,6 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+<p>Hello Everyone!</p>
+
+<p>I'm Luca，this is my personal website.</p>
+
+<p>I'm glad you are here. You can see my profile on this page.</p><!DOCTYPE html>
 
 ### Academic Qualifications
 
@@ -60,9 +65,9 @@ Patents(based on filing date)
 
 10. China Patent 109177217A (filed on 16 August 2018), “一种浇注型无溶剂聚氨酯汽车内饰材料的制备方法”
 
-11. China Patent 108978247A (filed on 16 August 2018), “一种汽车内饰用生态超细纤维合成革的制造方法”
+11. China Patent 108978247A (filed on 16 August 2018; granted on 8 September 2020), “一种汽车内饰用生态超细纤维合成革的制造方法”
 
-12. China Patent 108978248A (filed on 16 August 2018), “一种高性能汽车座椅合成革的制造方法”
+12. China Patent 108978248A (filed on 16 August 2018; granted on 8 September 2020), “一种高性能汽车座椅合成革的制造方法”
 
 13. China Patent 206873177U (filed on 26 May 2017; granted on 12 January 2018), “一种高韧性双面合成革”
 
