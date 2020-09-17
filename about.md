@@ -7,7 +7,7 @@ permalink: /about/
 
 <p>I'm Luca，this is my personal website.</p>
 
-<p>I'm glad you are here. You can see my profile on this page.</p><!DOCTYPE html>
+<p>I'm glad you are here. You can see my profile on this page.</p>
 
 ### Academic Qualifications
 
