@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Aboutme
+permalink: /about me/
 ---
 <p>Hello Everyone!</p>
 
@@ -15,17 +15,19 @@ Candidate for M.Eng. (Light Ind. Technol. & Eng.), Shaanxi University of Science
 
 B.Eng. (Nonwoven Mat. & Eng.), Shaanxi University of Science & Technology, China, July 2016
 
-### Work Experience
+### Intership Experience
 
 July 2020 - August 2020: Research Intern, Nanjing Tembusu Advanced Materials Institute, Nanjing, JS, China
-
-February 2018 - November 2019: Technical Support Engineer, Dongguan Hongsui Industry Investment Ltd, Dongguan, GD, China
-
-July 2016 - November 2017: Technican, Zhejiang Hexin Industry Group Ltd, Jiaxing/ Putian, ZJ/FJ, China
 
 February 2016- March 2016: Trainee, Zhejiang Hexin Industry Group Ltd, Jiaxing, ZJ, China
 
 July 2015- August 2015: Trainee, Fujian Topsun Microfiber Ltd, Zhangzhou, FJ, China
+
+### Work Experience
+
+February 2018 - November 2019: Technical Support Engineer, Euro-China New Material Ltd(CromogeniaUnits), Daying, SC, China
+
+July 2016 - November 2017: Technican, Zhejiang Hexin Industry Group Ltd, Jiaxing/ Putian, ZJ/FJ, China
 
 ### Research Experience
 
